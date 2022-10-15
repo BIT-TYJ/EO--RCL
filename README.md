@@ -24,10 +24,7 @@ $ ./scripts/run_robust_pcl_reconstruction_example_cauchy_two_EM.sh
 ```
 
 ## Common problems
-1.download the correct version of Eigen.
-[Click to download Eigen 3.3.7](http://bitbucket.org/eigen/eigen/get/3.3.7.zip) or download other Eigen 3.3.*, then (re)-compile ceres with the correct Eigen.
-
-2. **ccache** may not be installed by default. Simply install it.
+1. **ccache** may not be installed by default. Simply install it.
 ```sh
 $ sudo apt-get install ccache
 ```
