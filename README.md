@@ -6,7 +6,7 @@ This is a c++ implementation based on [strasdat/Sophus](https://github.com/stras
 ## Dependency
 
   - Eigen 3.3.4
-  - Google ceres2.0.0
+  -  Google ceres2.0.0
 
 ## Quickstart
 Assume the current directory is the root of this repository.
