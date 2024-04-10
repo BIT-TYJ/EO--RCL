@@ -29,5 +29,6 @@ $ ./scripts/run_robust_pcl_reconstruction_example_cauchy_two_EM.sh
 $ sudo apt-get install ccache
 ```
 
-## Acknowledge
-Thanks for the open source code:  [RobustPCLReconstruction](https://github.com/ziquan111/RobustPCLReconstruction)!
+## Acknowledgement
+The implementation of EO--RCL relies on resources from [RobustPCLReconstruction](https://github.com/ziquan111/RobustPCLReconstruction). Thank the original authors for their open-sourcing！
+
